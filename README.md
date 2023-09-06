@@ -1,2 +1,2 @@
 # Timus
-Solution to Timus1000 A+B Problem
+Solution to a few Timus online judge problems
