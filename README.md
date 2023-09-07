@@ -1,2 +1,2 @@
 # Timus
-Solution to a few Timus online judge problems
+Solution to Timus online judge problems solved in C and C++
